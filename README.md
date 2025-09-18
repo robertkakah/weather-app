@@ -55,9 +55,8 @@ Streamlit: Web framework for Python
 Requests: HTTP library for API calls
 Pandas: Data manipulation and analysis
 License
-This project is open source and available under the MIT License.
+This project is open source and available under the MIT License
 
-Editor
 
 
 
