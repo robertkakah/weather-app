@@ -1,5 +1,7 @@
 Group Name: TechSmiths
+
 Group Members: 
+
 Adovor Kakah Robert - 01244193B
 
 Johnson Adzomah - 01246568B
@@ -56,5 +58,6 @@ License
 This project is open source and available under the MIT License.
 
 Editor
+
 
 
