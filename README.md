@@ -47,8 +47,11 @@ Sydney, Australia
 Technologies Used
 
 Streamlit: Web framework for Python
+
 Requests: HTTP library for API calls
+
 Pandas: Data manipulation and analysis
+
 
 
 
