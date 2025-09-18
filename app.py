@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+# -- coding: utf-8 --
+"""
+A web applicaton which allows users to view the weather
+"""
 import streamlit as st
 import requests
 import json
@@ -269,4 +274,5 @@ def main():
     """, unsafe_allow_html=True)
 
 if __name__ == "__main__":
+
     main()
