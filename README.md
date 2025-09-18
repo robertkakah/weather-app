@@ -32,6 +32,7 @@ Installation & Setup
 
 Install dependencies:
 pip install -r requirements.txt
+
 Run the application:
 streamlit run app.py
 
@@ -47,6 +48,7 @@ Technologies Used
 Streamlit: Web framework for Python
 Requests: HTTP library for API calls
 Pandas: Data manipulation and analysis
+
 
 
 
