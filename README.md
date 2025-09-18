@@ -6,11 +6,13 @@ Adovor Kakah Robert - 01244193B
 
 Johnson Adzomah - 01246568B
 
-Quarcoo Anue Josiah-01243574B
+Michael Kofi Sesebi - 01243506B
 
 Bidow Henry Baba Razak -01245151B
 
 Adzah Richard Khalel Annor - 01244415B
+
+Samuel Opoku Obeng - 01243730B
 
 CONTENT
 
@@ -51,6 +53,7 @@ Streamlit: Web framework for Python
 Requests: HTTP library for API calls
 
 Pandas: Data manipulation and analysis
+
 
 
 
