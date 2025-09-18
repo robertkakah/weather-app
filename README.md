@@ -1,9 +1,13 @@
 Group Name: TechSmiths
 Group Members: 
 Adovor Kakah Robert - 01244193B
+
 Johnson Adzomah - 01246568B
+
 Quarcoo Anue Josiah-01243574B
+
 Bidow Henry Baba Razak -01245151B
+
 Adzah Richard Khalel Annor - 01244415B
 
 CONTENT
@@ -52,4 +56,5 @@ License
 This project is open source and available under the MIT License.
 
 Editor
+
 
